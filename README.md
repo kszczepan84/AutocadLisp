@@ -17,3 +17,4 @@ Instrukcja instalacji:
 	różnica rzędnych - C:\Szczepan\ikony\roznica rzednych.png
 	zestaw bloków geostate - C:\Szczepan\ikony\bloki.png
 5. Paleta użyta pierwszy raz w każdym nowym rysunku musi wczytać bloki do biblioteki, aby to zrobić należy wcisnąć "Zestaw bloków Geostate", zostaną wprowadzone bloki w punkcie przyłożenia 0,0 ( można je od razu usuąć, bloki zostały juz zapisane do biblioteki )
+6. plik z blokami dostępny na żądanie po kontakcie
